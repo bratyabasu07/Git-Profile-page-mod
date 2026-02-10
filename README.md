@@ -39,7 +39,7 @@
 <h1 align="center">👨‍💻 About Me</h1>
 
 <p align="center">
-  <img src="brh but i want to put thishttps://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5eTFlZjdtb3A1cXB5MjJwamkwNWw4YjVqNXl3a3FqZGdnOXV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="350" height="220" align="right" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5eTFlZjdtb3A1cXB5MjJwamkwNWw4YjVqNXl3a3FqZGdnOXV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="350" height="220" align="right" />
   <ul>
     <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>I Secure Systems by Understanding How They Break | Bug hunter 🐞 | CTF addict</b> </li>
     <li> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> <b>Currently working on</b>: <i>Ellifrox - Advanced Penetration Testing Tool</i> </li>
